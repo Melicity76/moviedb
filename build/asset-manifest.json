@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eade637f.chunk.css",
+    "main.js": "/static/js/main.f96b5e85.chunk.js",
+    "main.js.map": "/static/js/main.f96b5e85.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.009aeb4a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.009aeb4a.js.map",
+    "static/js/2.9d2230eb.chunk.js": "/static/js/2.9d2230eb.chunk.js",
+    "static/js/2.9d2230eb.chunk.js.map": "/static/js/2.9d2230eb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.372230f41c7a5ebef938a5d171a0e61d.js": "/precache-manifest.372230f41c7a5ebef938a5d171a0e61d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eade637f.chunk.css.map": "/static/css/main.eade637f.chunk.css.map",
+    "static/js/2.9d2230eb.chunk.js.LICENSE.txt": "/static/js/2.9d2230eb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bg1.e099ecab.jpg",
+    "static/media/nfc.png": "/static/media/nfc.35ad3697.png",
+    "static/media/nfchova.png": "/static/media/nfchova.09f83deb.png",
+    "static/media/reactlogo.png": "/static/media/reactlogo.cd7bb6be.png",
+    "static/media/titlemainblue.png": "/static/media/titlemainblue.bd23426e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.009aeb4a.js",
+    "static/js/2.9d2230eb.chunk.js",
+    "static/css/main.eade637f.chunk.css",
+    "static/js/main.f96b5e85.chunk.js"
+  ]
+}
